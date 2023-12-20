@@ -6,6 +6,7 @@ Hello there!  I'm Indiarto Aji Begawan, an aspiring data scientist with a magic 
 
 - Contribute my skills: I'm a team player eager to learn from experienced mentors and collaborate on impactful projects.
 - Make a difference: My passion for text and AI compels me to tackle real-world problems and leave a positive mark.
+
 Ready to join the adventure?
 
 - GitHub : [AjiBegawan](https://github.com/AjiBegawan)
